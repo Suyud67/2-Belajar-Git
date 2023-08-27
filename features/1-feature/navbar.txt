@@ -1,1 +1,3 @@
 This is navbar
+- header navbar
+- items navbar (can direct to another page)
